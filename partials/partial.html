@@ -1,0 +1,7 @@
+<div class="bigWrapper">
+	<select id="vehicleSelect" 
+		ng-model="vehicle.selected" 
+		ng-options="vehicle.is as vehicle.type for vehicle in vehicles"
+		ng-change="vehicleChanged(vehicle.selected)">
+	</select>
+</div>

@@ -1,0 +1,5 @@
+[
+{"id": "0", "type": "Select Make", 'mpg': '0'},
+{"id": "1", "type": "Car", 'mpg': '25'},
+{"id": "2", "type": "Motorcycle", 'mpg': '50'}
+]
